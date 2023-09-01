@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   ##
 
-
+![Snake animation](https://github.com/GabiLira/GabiLira/blob/output/github-contribution-grid-snake.svg)
 
   
